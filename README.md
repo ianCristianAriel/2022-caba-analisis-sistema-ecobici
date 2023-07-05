@@ -1,5 +1,4 @@
 # PROYECTO INTEGRADOR 2022 - GRUPO M1006 
-
 ![ecobici](https://github.com/ianCristianAriel/M1006-ecobici/blob/main/ecobici.jpg) 
 ## Descripción
 
@@ -60,9 +59,9 @@ El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de l
 `pip3 install requerimientos.txt`
 
 ### Personas Desarrolladoras del Proyecto:
-- @IanCristianAriel
-- @WalterQ20
-- @KevinMarcos26
+- [@IanCristianAriel](https://github.com/IanCristianAriel) 
+- [@WalterQ20](https://github.com/WalterQ20)
+- [@KevinMarcos26](https://github.com/KevinMarcos26)
 
 ### Fuente
 - [Datos abiertos de la probincia de Buenos Aires](https://data.buenosaires.gob.ar/dataset/bicicletas-publicas/resource/a9095876-e584-4b0d-976c-a4600455565b)
