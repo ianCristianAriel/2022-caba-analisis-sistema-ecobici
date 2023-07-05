@@ -1,5 +1,5 @@
 # PROYECTO INTEGRADOR 2022 - GRUPO M1006 
-![ecobici](https://github.com/ianCristianAriel/M1006-ecobici/blob/main/ecobici.jpg) 
+![ecobici](https://github.com/ianCristianAriel/programacion_ecobici_GM1006/blob/main/ecobici.jpg) 
 ## Descripción
 
 El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de los servicios de bicicletas públicas conocido como ecobici y la comparte de manera pública. En este caso, nos centraremos en el análisis de los viajes registrados en la base de datos del año 2021. Nuestra meta consiste en profundizar en el uso que los usuarios hacen de este sistema, con el fin de explorar las posibilidades de implementarlo en otras áreas jurisdiccionales.
@@ -45,6 +45,7 @@ El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de l
 - [Informe](https://drive.google.com/file/d/1rneTT9ZIHR9d-uJ6H1XHxJ5nSd2b4VLL/view?usp=drive_link)
 
 - [Trello](https://trello.com/b/ZgPAOBo0/preparacion-de-material-de-trabajo) 
+
 ### Tecnologías utilizadas:
 - Python
   - Numpy
@@ -65,6 +66,6 @@ El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de l
 
 ### Fuente
 - [Datos abiertos de la probincia de Buenos Aires](https://data.buenosaires.gob.ar/dataset/bicicletas-publicas/resource/a9095876-e584-4b0d-976c-a4600455565b)
-
+- [ChatGPT](https://chat.openai.com/)
 ### Licencia
 - Creative Commons
