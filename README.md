@@ -16,8 +16,6 @@ El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de l
         │   └── brutos           <- CSV originales.
         │
         ├── notebooks          <- Notebooks y/o Scripts.
-        │   ├── secundarios     <- Utilizados para cuestiones estructurales.
-        │   └── funcionales        <- Fraccionados por etapa del proyecto.
         |
         ├── .gitignore         <- Arhivos para ignorar por `git`.
         │
