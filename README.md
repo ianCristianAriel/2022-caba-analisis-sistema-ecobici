@@ -10,7 +10,8 @@ El gobierno de la Ciudad de Buenos Aires recopila información sobre el uso de l
 
 ### Estructura de directorios y archivos resultantes
 
-    Proyecto finalizacion - G3
+    2022 CABA, EcoBici
+        │
         ├── datos
         │   ├── procesados      <-CSV proesados.
         │   └── brutos           <- CSV originales.
