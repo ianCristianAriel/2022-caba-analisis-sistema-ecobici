@@ -9,16 +9,16 @@
     2022 CABA, EcoBici
         │
         ├── datos
-        │   ├── procesados      <-CSV proesados.
-        │   └── brutos           <- CSV originales.
+        │   ├── procesados         <-CSV proesados.
+        │   └── brutos             <- CSV originales.
         │
-        ├── notebooks          <- Notebooks y/o Scripts.
+        ├── notebooks              <- Notebooks y/o Scripts.
         |
-        ├── .gitignore         <- Arhivos para ignorar por `git`.
+        ├── .gitignore             <- Arhivos para ignorar por `git`.
         │
-        ├── requerimientos.txt    <- Paquetes y dependencias.
+        ├── requerimientos.txt     <- Paquetes y dependencias.
         │
-        └── README.md          <- Detalles por escrito.
+        └── README.md              <- Detalles por escrito.
 
 ### Funciones y aplicaciones:
 1. ¿Cuál es la duración promedio de cada viaje? (Los datos están en segundos) 
