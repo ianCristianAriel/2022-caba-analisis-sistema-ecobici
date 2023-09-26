@@ -1,5 +1,9 @@
 # Informe Técnico del Proyecto Ecobici 2021 en Argentina, CABA
 
+<p align="center">
+    <img src="./datos/imagenes/ecobici.png" alt="Ecobici" width="300" height="200">
+</p>
+
 ## INTEGRANTES:
 - Yane, Ian Cristian Ariel
 - Agüi Manera, Kevin Marcos
@@ -42,7 +46,7 @@ El proyecto se desarrolló principalmente en Python 3. Se utilizó web scraping 
 ![EDT](./datos/imagenes/EDT.png)
 
 ### 4.1 Gestión de proyectos y cronograma
-Se creó una EDT (Estructura de Desglose de Trabajo) para definir las etapas del proyecto y se estableció un cronograma detallado para su ejecución.
+Se creó una EDT (Estructura de Desglose de Trabajo) para definir las etapas del proyecto y se estableció un cronograma detallado para su ejecución utilizando la metodologia scrum como filosofia y marco de seguimiento.
 ### 4.2 Diseño del sistema Ecobici
 Ecobici es un sistema de bicicletas eléctricas con dos modelos, Iconic y FIT, implementado en la Ciudad Autónoma de Buenos Aires.
 ### 4.3 Recopilación y limpieza de datos
@@ -52,8 +56,28 @@ Durante el análisis de datos, se identificaron insights clave, como la correlac
 
 ## 5. Resultados:
 - El tiempo promedio para tomar y dejar una bicicleta es de aproximadamente 30 minutos, excepto cuando se toman por la noche, que generalmente se devuelven al día siguiente alrededor de las 16:00 horas.
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="./datos/imagenes/horas_uso.jpg" alt="Imagen 1" width="300" height="200">
+</div>
+<div style="display: inline-block;">
+    <img src="./datos/imagenes/tiempo_uso_segundos.jpg" alt="Imagen 2" width="300" height="200">
+</div>
+
 - El uso por género es equitativo, con un 32% de usuarios femeninos, un 34% masculinos y el 34% restante no registrado.
+
+<p align="center">
+    <img src="genero_uso.jpg" alt="Imagen" width="300" height="200">
+</p>
+
 - Aunque los modelos 'Iconic' y 'FIT' tienen tiempos de uso similares, 'Iconic' se elige en un 81.5% de los casos, mientras que 'FIT' se elige en el restante 18.5%, lo que sugiere diferentes usos.
+
+<div style="display: inline-block; margin-right: 10px;">
+    <img src="./datos/imagenes/minutos_uso_modelo.jpg" alt="Imagen 1" width="300" height="200">
+</div>
+<div style="display: inline-block;">
+    <img src="./datos/imagenes/uso_modelo_veces.jpg" alt="Imagen 2" width="300" height="200">
+</div>
 
 ## 6. Conclusiones:
 Se observó que las bicicletas se utilizan principalmente para trayectos cortos, especialmente el modelo 'Iconic', indicando un uso común para desplazamientos breves, como mandados o ir al trabajo. 'FIT' parece destinarse a trayectos más largos o actividades deportivas. No se encontró una preferencia de género clara. Se recomienda actualizar los datos desde la [página oficial de BA Ecobici](https://baecobici.com.ar/#/es/inicio) para futuras investigaciones e incorporar software de visualizaciones dinamicas como PowerBI o Tableau.
