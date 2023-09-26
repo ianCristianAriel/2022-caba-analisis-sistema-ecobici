@@ -39,6 +39,8 @@ Ecobici es un sistema de bicicletas públicas compartidas implementado en la Ciu
 El proyecto se desarrolló principalmente en Python 3. Se utilizó web scraping con bibliotecas como requests para la recoleccion de de datos, limpieza y análisis de datos con bibliotecas como NumPy y Pandas, y visualización con Matplotlib y Seaborn.
 
 ## 4. Desarrollo del Proyecto:
+![EDT](./datos/imagenes/EDT.png)
+
 ### 4.1 Gestión de proyectos y cronograma
 Se creó una EDT (Estructura de Desglose de Trabajo) para definir las etapas del proyecto y se estableció un cronograma detallado para su ejecución.
 ### 4.2 Diseño del sistema Ecobici
