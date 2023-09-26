@@ -59,7 +59,6 @@ Durante el análisis de datos, se identificaron insights clave, como la correlac
 
 <div align="center">
   <img src="./datos/imagenes/horas_uso.png" alt="Hora de uso" width="45%">
-  <img src="./datos/imagenes/tiempo_uso_segundos.png" alt="Tiempo de uso en segundos" width="45%">
 </div>
 
 - El uso por género es equitativo, con un 32% de usuarios femeninos, un 34% masculinos y el 34% restante no registrado.
