@@ -57,11 +57,9 @@ Durante el análisis de datos, se identificaron insights clave, como la correlac
 ## 5. Resultados:
 - El tiempo promedio para tomar y dejar una bicicleta es de aproximadamente 30 minutos, excepto cuando se toman por la noche, que generalmente se devuelven al día siguiente alrededor de las 16:00 horas.
 
-<div style="display: inline-block; margin-right: 10px;">
-    <img src="./datos/imagenes/horas_uso.png" alt="Imagen 1" width="300" height="200">
-</div>
-<div style="display: inline-block;">
-    <img src="./datos/imagenes/tiempo_uso_segundos.png" alt="Imagen 2" width="300" height="200">
+<div style="display: flex; justify-content: center;">
+  <img src="./datos/imagenes/horas_uso.png" alt="Imagen 1" style="width: 45%; margin-right: 5px;">
+  <img src="./datos/imagenes/tiempo_uso_segundos.png" alt="Imagen 2" style="width: 45%; margin-left: 5px;">
 </div>
 
 - El uso por género es equitativo, con un 32% de usuarios femeninos, un 34% masculinos y el 34% restante no registrado.
@@ -72,11 +70,9 @@ Durante el análisis de datos, se identificaron insights clave, como la correlac
 
 - Aunque los modelos 'Iconic' y 'FIT' tienen tiempos de uso similares, 'Iconic' se elige en un 81.5% de los casos, mientras que 'FIT' se elige en el restante 18.5%, lo que sugiere diferentes usos.
 
-<div style="display: inline-block; margin-right: 10px;">
-    <img src="./datos/imagenes/uso_modelo_veces.jpg" alt="Imagen 1" width="300" height="200">
-</div>
-<div style="display: inline-block;">
-    <img src="./datos/imagenes/minutos_uso_modelo.png" alt="Imagen 2" width="300" height="200">
+<div style="display: flex; justify-content: center;">
+  <img src="./datos/imagenes/uso_modelo_veces.jpg" alt="Imagen 1" style="width: 45%; margin-right: 5px;">
+  <img src="./datos/imagenes/minutos_uso_modelo.png" alt="Imagen 2" style="width: 45%; margin-left: 5px;">
 </div>
 
 ## 6. Conclusiones:
