@@ -29,12 +29,6 @@
 6. ¿Cuántos usuarios con ID registrado hay?
 7. ¿Cuántos viajes con ID registrado hay?
 
-- [Video explicativo](https://drive.google.com/file/d/18sC7bRWAvGZ83kJl79oIS5SPyy-j6MiJ/view?usp=sharing)
-
-- [Informe](https://drive.google.com/file/d/1rneTT9ZIHR9d-uJ6H1XHxJ5nSd2b4VLL/view?usp=drive_link)
-
-- [Trello](https://trello.com/b/ZgPAOBo0/preparacion-de-material-de-trabajo)
-
 ### Tecnologías Utilizadas
 - Python
   - Numpy
